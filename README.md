@@ -1,6 +1,7 @@
 # Welcome to Expo app 👋
 # Chiang Mai Guide App
-
+<h2>📸Preview<h2>
+<img width="1369" height="769" alt="13" src="https://github.com/user-attachments/assets/e2203628-ea60-40f0-bc3d-85368300f61d" />
 <img width="250" src="https://github.com/user-attachments/assets/94f16968-5275-4262-b557-8bbae5816a1c" />
 <img width="250" src="https://github.com/user-attachments/assets/a88e60c1-ca08-4651-b193-e8b68368e46c" />
 <img width="250" src="https://github.com/user-attachments/assets/a026dd3d-7953-4410-b7f3-b2c6317f2fd2" />
